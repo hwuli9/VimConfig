@@ -1,5 +1,5 @@
 In .tmux.conf
-	- Add
+	- Add:
 		set -g default-terminal "xterm"
 
 In .bashrc
